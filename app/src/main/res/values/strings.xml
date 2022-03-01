@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaModuloAndroidJava</string>
+    <string name="msg_error">Fallo en la conexión</string>
+    <string name="title_fragmt_det">Características de SuperHéroe seleccionado</string>
+    <string name="title_frag_list">Lista de SuperHéroes</string>
+    <string name="nombre">Nombre: </string>
+    <string name="alias">Alias: </string>
+    <string name="genero">Género: </string>
+    <string name="raza">Raza: </string>
+    <string name="altura">Altura: </string>
+    <string name="peso">Peso: </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
